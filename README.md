@@ -15,3 +15,11 @@ In this repository, you will find a diverse range of Power BI projects that expl
 - **Insightful Analysis**: The visualizations are coupled with insightful analysis and explanations, making complex data accessible and easy to understand.
 
 - **Data Storytelling**: We strive to present the findings in a compelling narrative, enabling stakeholders to grasp the significance of the data and make informed decisions.
+
+
+## Dashboards
+
+<img width="960" alt="Screenshot 2023-04-30 110529" src="https://github.com/sanjose625/Power-Bi-Projects/assets/56246269/eb41e99f-5885-42b6-a8cf-caf36d3fcee7">
+
+<img width="960" alt="Screenshot 2023-08-01 192735" src="https://github.com/sanjose625/Power-Bi-Projects/assets/56246269/33b95e89-b40c-4315-b097-eaf4c691eab3">
+
